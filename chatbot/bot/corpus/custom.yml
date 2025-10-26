@@ -1,0 +1,7 @@
+categories:
+  - custom
+conversations:
+  - - "Hello"
+    - "Hello! How can I help you today?"
+  - - "Who are you?"
+    - "I am a terminal chat bot powered by ChatterBot."

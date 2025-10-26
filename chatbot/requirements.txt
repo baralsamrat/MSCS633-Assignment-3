@@ -1,0 +1,9 @@
+Django
+git+https://github.com/gunthercox/ChatterBot.git@master
+chatterbot-corpus
+SQLAlchemy
+pint
+mathparse
+nltk
+PyYAML
+python-dateutil
